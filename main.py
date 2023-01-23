@@ -7,6 +7,6 @@ def l():
 def r():
     t.right(90)
 while True:
-    t.onkeypress(f, "Up")
-    t.onkeypress(l, "Left")
-    t.onkeypress(r, "Right")
+    turtle.onkeypress(f, "Up")
+    turtle.onkeypress(l, "Left")
+    turtle.onkeypress(r, "Right")
