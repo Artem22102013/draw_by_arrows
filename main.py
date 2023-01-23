@@ -7,6 +7,6 @@ def l():
 def r():
     t.right(90)
 while True:
-    t.onkey(f, "Up")
-    t.onkey(l, "Left")
-    t.onkey(r, "Right")
+    t.onkeypress(f, "Up")
+    t.onkeypress(l, "Left")
+    t.onkeypress(r, "Right")
