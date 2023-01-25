@@ -35,3 +35,4 @@ if pas == gen_pas:
     print("39 years")
     print("Male")
     print("16 March 1983")
+print("Thank You!")
